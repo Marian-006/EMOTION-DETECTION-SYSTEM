@@ -67,7 +67,7 @@ The **Emotion Detection System** is a deep learning-based project that detects h
 
 📥 Due to GitHub file size limitations, the complete project ZIP is hosted on Google Drive:
 
-👉 [Click here to download the full project from Google Drive]([https://drive.google.com/YOUR-LINK-HERE](https://drive.google.com/file/d/1EnqNXzuhXk8ALAd-ERlc0G_z2UeMHmI2/view?usp=sharing))
+👉 [https://drive.google.com/YOUR-LINK-HERE](https://drive.google.com/file/d/1EnqNXzuhXk8ALAd-ERlc0G_z2UeMHmI2/view?usp=sharing].
 
 > ⚠️ Make sure to unzip the file after downloading.
 
